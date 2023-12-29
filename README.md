@@ -4,5 +4,6 @@ Exploring Expertise: In-Depth Tips and Tricks for Troubleshooting and Beyond Acr
 
 - [Assembly](./Assembly/README.md)
 - [Git](./Git/README.md)
+- [IA](./IA/README.md)
 - [Python](./Python/README.md)
 - [Regex](./Regex/README.md)
